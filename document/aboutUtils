@@ -1,0 +1,23 @@
+工具类
+
+1：dao层的封装
+2：日志输出  能够分类输出日志
+     db类放在db.log文件
+     manage类放在manage.log文件
+     system类放在system.log文件
+     
+     +-vo
+     |
+     +-log type
+     |
+     +-log file
+     |
+     +-log Api
+     |
+     +-log
+     
+     vo布局
+     
+     StackTraceElement
+      	
+      	
